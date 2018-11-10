@@ -166,32 +166,235 @@ Es una zona de bosque tropical seco que presenta un patrón de lluvias irregular
 
 \begin{frame}{Tipos de instrumentación electrónica}{Clasificación por precio}
 
-  Según el costo de la instrumentación, esta la podemos catalogar en:
+  Según el costo o la complejidad de la instrumentación a utiliar, esta la podemos catalogar en cuatro gamas distintas:
   \begin{itemize}
-    \item Bajo
-    \item Mediano
-    \item Alto
+    \item Baja
+    \item Media
+    \item Alta
     \item Experimental
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Tipos de instrumentación electrónica}{Clasificación por precio}
-  Según el costo de la instrumentación, esta la podemos catalogar en:
+  Según el costo o la complejidad de la instrumentación a utiliar, esta la podemos catalogar en cuatro gamas distintas:
   \begin{itemize}
-    \item \textbf{Bajo:}
+    \item \textbf{Baja:}
 
       Pequeños agricultores y personas partículares
-    \item \textbf{Mediano:}
+    \item \textbf{Media:}
 
       Cooperativas, Empresas privadas
 
-    \item \textbf{Alto:}
+    \item \textbf{Alta:}
 
       Comisiones departamentales, Estado de Guatemala.
     \item \textbf{Experimental:}
 
       Investigadores, Universidades
   \end{itemize}
+\end{frame}
+
+\section{Aplicaciones específicas en cada gama}
+
+\subsection{Gama Baja}
+
+\begin{frame}{Ejemplos de Gama Baja}{\emph{The Chameleon}}
+  \begin{figure}
+    \includegraphics[width=0.7\textwidth]{Docs/chameleon1}
+    \caption{}
+    \label{}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Baja}{\emph{The Chameleon}}
+  Higrómetro de tensión digital basado en sensor resistivo con interfáz simple para medición de la humedad del suelo en Mozambique.
+
+  Ventajas:
+  \begin{itemize}
+    \item Interfáz simple de comprender y enseñar.
+    \item Fácil instalación in-situ
+    \item Uso de componentes pasivos hace fácil de réplicar.
+  \end{itemize}
+
+  Desventajas:
+  \begin{itemize}
+    \item Requiere precalibración
+    \item Humedad limitada a un tipo de suelo en partícular.
+  \end{itemize}
+\end{frame}
+\begin{frame}{Ejemplos de Gama Baja}{\emph{The Chameleon}}
+  \begin{figure}
+    \includegraphics[width=0.7\textwidth]{Docs/chameleon2}
+    \caption{Relación entre tensión, humedad y resistencia.}
+    \label{}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Baja}{\emph{The Chameleon}}
+  \begin{figure}
+    \includegraphics[width=0.7\textwidth]{Docs/chameleon3}
+    \caption{Delimitación de los indicadores de humedad según valores de tensión.}
+    \label{}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Baja}{\emph{The Chameleon}}
+  \begin{figure}
+    \includegraphics[width=\textwidth]{Docs/chameleon4}
+  \end{figure}
+\end{frame}
+
+
+\begin{frame}{Ejemplos de Gama Baja}{Groasis}
+  \begin{figure}
+    \includegraphics[width=0.6\textwidth]{Docs/groasis1}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Baja}{Groasis}
+
+Caja de polypropyleno reutilizable a usarse como alternativa a riego por goteo para la fase de crecimiento en cultivos arbóreos. Disponible con sensores te humedad en el suelo para optimizar la liberación del agua.
+  Ventajas:
+  \begin{itemize}
+    \item Reutilizable (Hasta 10 veces según documentación)
+    \item Ahorro de hasta 90 porciento de agua en riego con goteo.
+    \item Permite la captación de agua debido a su diseño.
+  \end{itemize}
+
+  Desventajas:
+  \begin{itemize}
+    \item Costo relativamente caro.
+    \item No es un proyecto abierto.
+    \item Documentación sobre los sensores no disponible.
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}{Ejemplos de Gama Baja}{Burried Diffuser}{Difusor enterrado}
+  \begin{figure}
+    \includegraphics[width=0.6\textwidth]{Docs/bd1}
+  \end{figure}
+
+\end{frame}
+
+\subsection{Gama Media}
+\begin{frame}{Gama Media}{3D-PAWS}
+  \begin{figure}
+    \includegraphics[height=0.7\textheight]{Docs/3dpaws1}
+    \caption{3D-PAWS location at the Bio-Med College at the Salvation Army Mission, Zambia.}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Gama Media}{3D-PAWS}
+\emph{3D Printed Automatic Weather Station}, tiene como objetivo el proporcionar una estación metereológica "Personal" para contar con datos confiables sobre las condiciones climáticas. Todos los componentes pueden ser manufacturados en una semana y tiene un costo entre 200 USD a 400 USD.
+
+Consta con los siguientes sensores:
+\begin{itemize}
+  \item Presión
+  \item Humedad relativa.
+  \item Temperatura.
+  \item Velocidad del viento.
+  \item Dirección del viento.
+  \item Precipitación pluvial.
+  \item Intensidad de luz visible, infraroja y UV.
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Gama Media}{3D-PAWS}
+El sistema está basado en una Raspberry Pi para la adquisición de datos, procesamiento y comunicaciónes.
+
+\begin{figure}
+  \includegraphics[height=0.4\textheight]{Docs/3dpaws2}
+  \caption{Anemometro y veleta, Pluviometro y Radiation shield impresos en 3d.}
+  \label{}
+\end{figure}
+\end{frame}
+
+\subsection{Gama Alta}
+\begin{frame}{Ejemplos de Gama Alta}{Sonda de Neutrones}
+  \begin{figure}
+    \includegraphics[height=0.7\textheight]{Docs/sondaneutrones}
+    \caption{Sonda de neutrones CPN 503-DR Hydroprobe en posición de conteo estándar y medición en el suelo. }
+    \label{}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Alta}{Sonda de Neutrones}
+Es uno de los dispositivos para medición de humedad más confiables. Usualmente consta de una fuente de neutrones rápidos y de un detector de neutrones lentos. Usualmente la fuente de neutrones es una fuente de Berilio ($^{10}Be$) que emite neutrones en todas direcciones. Estos neutrones chocan con los átomos del suelo y rebotan perdiendo energía haciendo que se vuelvan "lentos". La interacción con la molécula del agua (en especial el hidrógeno) hace que se forme una nube de neutrones lentos los cuales son contados con el detector.
+
+\begin{figure}
+  \includegraphics[height=0.4\textheight]{Docs/sondaneutrones2}
+  \caption{Representación de la fuente radiactiva en el suelo.}
+  \label{}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos de Gama Alta}{Sonda de Neutrones}
+Ventajas:
+
+\begin{itemize}
+  \item Dispositivo de alta precisión y exactitud.
+  \item Funciona con cualquier tipo de suelo, incluso congelado.
+  \item Uso sencillo.
+\end{itemize}
+
+Desventajas:
+\begin{itemize}
+   \item Se necesita una fuente radioactiva.
+   \item Costo alto
+   \item Necesita cumplir con licencias y regulaciones de uso.
+\end{itemize}
+
+\end{frame}
+
+% \begin{frame}{Ejemplos de Gama Alta}{Monitoreo Satelital}
+%   \begin{figure}
+%     \includegraphics[height=0.7\textheight]{Docs/ms1}
+%     \caption{}
+%     \label{}
+%   \end{figure}
+% \end{frame}
+
+
+\subsection{Experimental}
+\begin{frame}{Ejemplos Experimentales}{Fibra Óptica}
+  \begin{figure}
+    \includegraphics[height=0.7\textheight]{Docs/exp1}
+    \caption{}
+    \label{}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos Experimentales}{Fibra Óptica}
+  \begin{figure}
+    \includegraphics[height=0.7\textheight]{Docs/exp2}
+    \caption{}
+    \label{}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos Experimentales}{Fibra Óptica}
+  \begin{figure}
+    \includegraphics[width=0.7\textwidth]{Docs/exp3}
+    \caption{Schematic of an optical fiber humidity sensor using fiber Bragg gratings.}
+    \label{}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{Ejemplos Experimentales}{Fibra Óptica}
+  \begin{figure}
+    \includegraphics[width=\textwidth]{Docs/exp4}
+    \caption{(a) Measured humidity response at 25 °C of PMMA mPOFBG annealed up to 90\%RH versus time and humidity; (b) Microscope image of the end facet of PMMA mPOF; (c) Corresponding stabilized response of the PMMA mPOFBGs annealed up to 90\% and 10\%.}
+    \label{}
+  \end{figure}
+
 \end{frame}
 
 

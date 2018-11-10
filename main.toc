@@ -3,3 +3,8 @@
 \beamer@sectionintoc {2}{La Electr\IeC {\'o}nica como posible soluci\IeC {\'o}n}{7}{0}{2}
 \beamer@subsectionintoc {2}{1}{Electr\IeC {\'o}nica Aplicada a la agricultura}{7}{0}{2}
 \beamer@subsectionintoc {2}{2}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}{15}{0}{2}
+\beamer@sectionintoc {3}{Aplicaciones espec\IeC {\'\i }ficas en cada gama}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{Gama Baja}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Gama Media}{26}{0}{3}
+\beamer@subsectionintoc {3}{3}{Gama Alta}{29}{0}{3}
+\beamer@subsectionintoc {3}{4}{Experimental}{32}{0}{3}

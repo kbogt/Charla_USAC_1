@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.29)  10 NOV 2018 08:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.29)  10 NOV 2018 05:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -866,6 +866,36 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -1021,7 +1051,10 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 38.
@@ -1032,7 +1065,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 38.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Docs/Mapa_CS.png, id=67, 957.5775pt x 771.88374pt>
+<Docs/Mapa_CS.png, id=96, 957.5775pt x 771.88374pt>
 File: Docs/Mapa_CS.png Graphic file (type png)
 <use Docs/Mapa_CS.png>
 Package pdftex.def Info: Docs/Mapa_CS.png  used on input line 38.
@@ -1046,10 +1079,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[2
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [2
 
  <./Docs/Mapa_CS.png>]
-<Docs/diassinlluvia.jpg, id=102, 1638.12pt x 1059.96pt>
+<Docs/diassinlluvia.jpg, id=136, 1638.12pt x 1059.96pt>
 File: Docs/diassinlluvia.jpg Graphic file (type jpg)
 <use Docs/diassinlluvia.jpg>
 Package pdftex.def Info: Docs/diassinlluvia.jpg  used on input line 47.
@@ -1063,10 +1099,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[3
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [3
 
  <./Docs/diassinlluvia.jpg>]
-<Docs/cs_in_numbers.png, id=133, 989.6975pt x 182.6825pt>
+<Docs/cs_in_numbers.png, id=173, 989.6975pt x 182.6825pt>
 File: Docs/cs_in_numbers.png Graphic file (type png)
 <use Docs/cs_in_numbers.png>
 Package pdftex.def Info: Docs/cs_in_numbers.png  used on input line 62.
@@ -1080,17 +1119,23 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[4
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [4
 
  <./Docs/cs_in_numbers.png>]
 Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[5
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [5
 
 ]
-<Docs/Predictions.png, id=195, 569.12625pt x 592.01175pt>
+<Docs/Predictions.png, id=244, 569.12625pt x 592.01175pt>
 File: Docs/Predictions.png Graphic file (type png)
 <use Docs/Predictions.png>
 Package pdftex.def Info: Docs/Predictions.png  used on input line 79.
@@ -1104,10 +1149,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[6
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [6
 
  <./Docs/Predictions.png>]
-<Docs/lotus-solar-pump.jpg, id=226, 662.475pt x 499.8675pt>
+<Docs/lotus-solar-pump.jpg, id=281, 662.475pt x 499.8675pt>
 File: Docs/lotus-solar-pump.jpg Graphic file (type jpg)
 <use Docs/lotus-solar-pump.jpg>
 Package pdftex.def Info: Docs/lotus-solar-pump.jpg  used on input line 88.
@@ -1117,10 +1165,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[7
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [7
 
  <./Docs/lotus-solar-pump.jpg>]
-<Docs/elefant_in_room.jpg, id=260, 301.125pt x 210.7875pt>
+<Docs/elefant_in_room.jpg, id=320, 301.125pt x 210.7875pt>
 File: Docs/elefant_in_room.jpg Graphic file (type jpg)
 <use Docs/elefant_in_room.jpg>
 Package pdftex.def Info: Docs/elefant_in_room.jpg  used on input line 92.
@@ -1135,17 +1186,23 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[8
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [8
 
  <./Docs/elefant_in_room.jpg>]
 Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[9
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [9
 
 ]
-<Docs/Trans_price.jpg, id=321, 369.5406pt x 290.7663pt>
+<Docs/Trans_price.jpg, id=392, 369.5406pt x 290.7663pt>
 File: Docs/Trans_price.jpg Graphic file (type jpg)
 <use Docs/Trans_price.jpg>
 Package pdftex.def Info: Docs/Trans_price.jpg  used on input line 110.
@@ -1159,10 +1216,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[10
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [10
 
  <./Docs/Trans_price.jpg>]
-<Docs/soil_humidity.png, id=354, 1468.48625pt x 530.98375pt>
+<Docs/soil_humidity.png, id=429, 1468.48625pt x 530.98375pt>
 File: Docs/soil_humidity.png Graphic file (type png)
 <use Docs/soil_humidity.png>
 Package pdftex.def Info: Docs/soil_humidity.png  used on input line 114.
@@ -1172,15 +1232,18 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[11
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [11
 
  <./Docs/soil_humidity.png>]
-<Docs/micro_lc.png, id=385, 903.375pt x 602.25pt>
+<Docs/micro_lc.png, id=465, 903.375pt x 602.25pt>
 File: Docs/micro_lc.png Graphic file (type png)
 <use Docs/micro_lc.png>
 Package pdftex.def Info: Docs/micro_lc.png  used on input line 131.
 (pdftex.def)             Requested size: 145.3713pt x 96.91333pt.
-<Docs/baby_tablet.jpg, id=386, 636.3775pt x 401.5pt>
+<Docs/baby_tablet.jpg, id=466, 636.3775pt x 401.5pt>
 File: Docs/baby_tablet.jpg Graphic file (type jpg)
 <use Docs/baby_tablet.jpg>
 Package pdftex.def Info: Docs/baby_tablet.jpg  used on input line 131.
@@ -1190,10 +1253,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[12
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [12
 
  <./Docs/micro_lc.png> <./Docs/baby_tablet.jpg>]
-<Docs/sensorfinal.jpg, id=417, 784.43062pt x 522.45187pt>
+<Docs/sensorfinal.jpg, id=503, 784.43062pt x 522.45187pt>
 File: Docs/sensorfinal.jpg Graphic file (type jpg)
 <use Docs/sensorfinal.jpg>
 Package pdftex.def Info: Docs/sensorfinal.jpg  used on input line 150.
@@ -1202,7 +1268,7 @@ Package pdftex.def Info: Docs/sensorfinal.jpg  used on input line 150.
 
 Package hyperref Warning: Ignoring empty anchor on input line 150.
 
-<Docs/Temppress.jpg, id=418, 746.79pt x 973.38657pt>
+<Docs/Temppress.jpg, id=504, 746.79pt x 973.38657pt>
 File: Docs/Temppress.jpg Graphic file (type jpg)
 <use Docs/Temppress.jpg>
 Package pdftex.def Info: Docs/Temppress.jpg  used on input line 150.
@@ -1215,10 +1281,13 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[13
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [13
 
  <./Docs/sensorfinal.jpg> <./Docs/Temppress.jpg>]
-<Docs/opensky.png, id=449, 677.53125pt x 775.89874pt>
+<Docs/opensky.png, id=540, 677.53125pt x 775.89874pt>
 File: Docs/opensky.png Graphic file (type png)
 <use Docs/opensky.png>
 Package pdftex.def Info: Docs/opensky.png  used on input line 159.
@@ -1232,30 +1301,398 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[14
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [14
 
  <./Docs/opensky.png>]
 Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[15
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [15
 
 ]
 Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[16
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [16
 
 ]
 Overfull \hbox (3.663pt too wide) has occurred while \output is active
  []\OT1/cmss/m/n/6 Instrumentaci^^Son 
  []
 
-[17
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [17
 
 ]
+<Docs/chameleon1.png, id=680, 501.875pt x 623.32875pt>
+File: Docs/chameleon1.png Graphic file (type png)
+<use Docs/chameleon1.png>
+Package pdftex.def Info: Docs/chameleon1.png  used on input line 208.
+(pdftex.def)             Requested size: 203.51895pt x 252.77014pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 208.
+
+
+Overfull \vbox (73.90547pt too high) detected at line 208
+ []
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [18
+
+ <./Docs/chameleon1.png>]
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [19
+
+]
+<Docs/chameleon2.png, id=754, 681.54625pt x 498.86375pt>
+File: Docs/chameleon2.png Graphic file (type png)
+<use Docs/chameleon2.png>
+Package pdftex.def Info: Docs/chameleon2.png  used on input line 232.
+(pdftex.def)             Requested size: 203.51895pt x 148.96758pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 232.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [20
+
+ <./Docs/chameleon2.png>]
+<Docs/chameleon3.png, id=791, 814.04124pt x 483.8075pt>
+File: Docs/chameleon3.png Graphic file (type png)
+<use Docs/chameleon3.png>
+Package pdftex.def Info: Docs/chameleon3.png  used on input line 240.
+(pdftex.def)             Requested size: 203.51895pt x 120.95157pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 240.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [21
+
+ <./Docs/chameleon3.png>]
+<Docs/chameleon4.png, id=827, 959.585pt x 726.715pt>
+File: Docs/chameleon4.png Graphic file (type png)
+<use Docs/chameleon4.png>
+Package pdftex.def Info: Docs/chameleon4.png  used on input line 246.
+(pdftex.def)             Requested size: 290.74263pt x 220.18958pt.
+
+Overfull \vbox (11.78046pt too high) detected at line 246
+ []
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [22
+
+ <./Docs/chameleon4.png>]
+<Docs/groasis1.jpg, id=863, 377.41pt x 458.71375pt>
+File: Docs/groasis1.jpg Graphic file (type jpg)
+<use Docs/groasis1.jpg>
+Package pdftex.def Info: Docs/groasis1.jpg  used on input line 253.
+(pdftex.def)             Requested size: 174.44734pt x 212.0258pt.
+
+Overfull \vbox (3.61668pt too high) detected at line 253
+ []
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [23
+
+ <./Docs/groasis1.jpg>]
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [24
+
+]
+<Docs/bd1.png, id=934, 1027.84pt x 543.02875pt>
+File: Docs/bd1.png Graphic file (type png)
+<use Docs/bd1.png>
+Package pdftex.def Info: Docs/bd1.png  used on input line 279.
+(pdftex.def)             Requested size: 174.44734pt x 92.1645pt.
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [25
+
+ <./Docs/bd1.png>]
+<Docs/3dpaws1.png, id=971, 433.62pt x 325.215pt>
+File: Docs/3dpaws1.png Graphic file (type png)
+<use Docs/3dpaws1.png>
+Package pdftex.def Info: Docs/3dpaws1.png  used on input line 287.
+(pdftex.def)             Requested size: 209.2071pt x 156.90195pt.
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [26
+
+ <./Docs/3dpaws1.png>]
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [27
+
+]
+<Docs/3dpaws2.png, id=1045, 634.37pt x 181.67876pt>
+File: Docs/3dpaws2.png Graphic file (type png)
+<use Docs/3dpaws2.png>
+Package pdftex.def Info: Docs/3dpaws2.png  used on input line 313.
+(pdftex.def)             Requested size: 313.06067pt x 89.65727pt.
+
+Overfull \hbox (22.31804pt too wide) in paragraph at lines 313--313
+ [] 
+ []
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 313.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [28
+
+ <./Docs/3dpaws2.png>]
+<Docs/sondaneutrones.jpg, id=1080, 478.78876pt x 352.31625pt>
+File: Docs/sondaneutrones.jpg Graphic file (type jpg)
+<use Docs/sondaneutrones.jpg>
+Package pdftex.def Info: Docs/sondaneutrones.jpg  used on input line 323.
+(pdftex.def)             Requested size: 213.2247pt x 156.90195pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 323.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [29
+
+ <./Docs/sondaneutrones.jpg>]
+<Docs/sondaneutrones2.jpg, id=1118, 70.1019pt x 54.2025pt>
+File: Docs/sondaneutrones2.jpg Graphic file (type jpg)
+<use Docs/sondaneutrones2.jpg>
+Package pdftex.def Info: Docs/sondaneutrones2.jpg  used on input line 334.
+(pdftex.def)             Requested size: 115.97118pt x 89.65727pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 334.
+
+
+Overfull \vbox (33.19266pt too high) detected at line 334
+ []
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [30
+
+ <./Docs/sondaneutrones2.jpg>]
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [31
+
+]
+<Docs/exp1.png, id=1188, 448.67625pt x 238.8925pt>
+File: Docs/exp1.png Graphic file (type png)
+<use Docs/exp1.png>
+Package pdftex.def Info: Docs/exp1.png  used on input line 371.
+(pdftex.def)             Requested size: 294.68268pt x 156.90195pt.
+
+Overfull \hbox (3.94005pt too wide) in paragraph at lines 371--371
+ [] 
+ []
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 371.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [32
+
+ <./Docs/exp1.png>]
+<Docs/exp2.png, id=1226, 602.25pt x 472.76625pt>
+File: Docs/exp2.png Graphic file (type png)
+<use Docs/exp2.png>
+Package pdftex.def Info: Docs/exp2.png  used on input line 380.
+(pdftex.def)             Requested size: 199.87343pt x 156.90195pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 380.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [33
+
+ <./Docs/exp2.png>]
+<Docs/exp3.jpg, id=1262, 90.45795pt x 31.19655pt>
+File: Docs/exp3.jpg Graphic file (type jpg)
+<use Docs/exp3.jpg>
+Package pdftex.def Info: Docs/exp3.jpg  used on input line 389.
+(pdftex.def)             Requested size: 203.51895pt x 70.19154pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 389.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [34
+
+ <./Docs/exp3.jpg>]
+<Docs/exp4.jpg, id=1297, 95.51685pt x 29.51025pt>
+File: Docs/exp4.jpg Graphic file (type jpg)
+<use Docs/exp4.jpg>
+Package pdftex.def Info: Docs/exp4.jpg  used on input line 398.
+(pdftex.def)             Requested size: 290.74263pt x 89.84128pt.
+
+
+./main.tex:398: Package inputenc Error: Unicode char ° (U+B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.398 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./main.tex:398: Package inputenc Error: Unicode char ° (U+B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.398 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 398.
+
+
+Overfull \hbox (3.663pt too wide) has occurred while \output is active
+ []\OT1/cmss/m/n/6 Instrumentaci^^Son 
+ []
+
+
+Overfull \vbox (28.68712pt too high) has occurred while \output is active []
+
+ [35
+
+ <./Docs/exp4.jpg>]
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -1265,34 +1702,34 @@ Overfull \hbox (3.663pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 402.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 402.
  (./main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 402.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 402.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F339FC19BC92900D5006A5F13D1B6EC1;324.
+(rerunfilecheck)             Checksum: 72BDEB8B34CE4CBF02376BAD6C13499D;639.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18504 strings out of 494820
- 342281 string characters out of 6177788
- 426865 words of memory out of 5000000
- 21364 multiletter control sequences out of 15000+600000
- 11813 words of font info for 43 fonts, out of 8000000 for 9000
+ 18694 strings out of 494820
+ 344846 string characters out of 6177788
+ 427842 words of memory out of 5000000
+ 21496 multiletter control sequences out of 15000+600000
+ 15171 words of font info for 56 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  48i,16n,65p,771b,608s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on main.pdf (17 pages, 3828098 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
+Output written on main.pdf (35 pages, 7931795 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 552 compressed objects within 6 object streams
- 42 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1377 PDF objects out of 1440 (max. 8388607)
+ 1284 compressed objects within 13 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 

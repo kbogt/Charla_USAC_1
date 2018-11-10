@@ -1,13 +1,49 @@
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
-\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{\IeC {\textquestiondown }Qu\IeC {\'e} es el corredor seco?}{2}{\IeC {\textquestiondown }Qu\IeC {\'e} es el corredor seco?}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
-\headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
+\headcommand {\slideentry {1}{0}{2}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}
+\headcommand {\slideentry {1}{0}{3}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@partpages {1}{4}}
-\headcommand {\beamer@subsectionpages {1}{4}}
-\headcommand {\beamer@sectionpages {1}{4}}
-\headcommand {\beamer@documentpages {4}}
-\headcommand {\gdef \inserttotalframenumber {4}}
+\headcommand {\slideentry {1}{0}{4}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{0}{5}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@sectionpages {2}{6}}
+\headcommand {\beamer@subsectionpages {2}{6}}
+\headcommand {\sectionentry {2}{La Electr\IeC {\'o}nica como posible soluci\IeC {\'o}n}{7}{La Electr\IeC {\'o}nica como posible soluci\IeC {\'o}n}{0}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Electr\IeC {\'o}nica Aplicada a la agricultura}}
+\headcommand {\slideentry {2}{1}{1}{7/7}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{1}{2}{8/8}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {2}{1}{3}{9/9}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{1}{4}{10/10}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{1}{5}{11/11}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{1}{6}{12/12}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{1}{7}{13/13}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{1}{8}{14/14}{Electr\IeC {\'o}nica Aplicada a la agricultura}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {7}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{15}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}}
+\headcommand {\slideentry {2}{2}{1}{15/15}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{2}{2}{16/16}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {2}{2}{3}{17/17}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@partpages {1}{17}}
+\headcommand {\beamer@subsectionpages {15}{17}}
+\headcommand {\beamer@sectionpages {7}{17}}
+\headcommand {\beamer@documentpages {17}}
+\headcommand {\gdef \inserttotalframenumber {17}}

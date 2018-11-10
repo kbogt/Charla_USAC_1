@@ -1,1 +1,5 @@
 \babel@toc {spanish}{}
+\beamer@sectionintoc {1}{\IeC {\textquestiondown }Qu\IeC {\'e} es el corredor seco?}{2}{0}{1}
+\beamer@sectionintoc {2}{La Electr\IeC {\'o}nica como posible soluci\IeC {\'o}n}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Electr\IeC {\'o}nica Aplicada a la agricultura}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Tipos de instrumentaci\IeC {\'o}n electr\IeC {\'o}nica}{15}{0}{2}

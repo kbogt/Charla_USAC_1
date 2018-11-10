@@ -11,7 +11,16 @@
 \usetheme{Berkeley}
 
 % \graphicspath{..\Docs}
-
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
 
 
 %Title of the presentation
@@ -351,14 +360,25 @@ Desventajas:
 
 \end{frame}
 
-% \begin{frame}{Ejemplos de Gama Alta}{Monitoreo Satelital}
-%   \begin{figure}
-%     \includegraphics[height=0.7\textheight]{Docs/ms1}
-%     \caption{}
-%     \label{}
-%   \end{figure}
-% \end{frame}
+\begin{frame}{Ejemplos de Gama Alta}{Monitoreo Satelital}
+  \begin{figure}
+    \includegraphics[height=0.7\textheight]{Docs/ms1}
+    \caption{}
+    \label{}
+  \end{figure}
+\end{frame}
 
+\begin{frame}{Ejemplos de Gama Alta}{Monitoreo Satelital}
+\textbf{¿Cómo puede medir la humedad del suelo un satélite desde el espacio?}
+
+La humedad del suelo es medido por difusómetros de microondas activos y pasivos. Estos pueden ver a través de las nubes y pueden tomar imágenes noche y día. Una medición precisa de la humedad del suelo depende la cantidad de vegetación existente. 
+
+¿Cómo funciona un difusómetro?
+Midiendo la retrodisperción de la microonda. El coeficiente de retrodisperción depende del dieléctrico del medio donde pasa. El agua es el único medio natural con una alta constante dieléctrica. Básicamente más retrodisperción, más grande el pixel. 
+
+
+
+\end{frame}
 
 \subsection{Experimental}
 \begin{frame}{Ejemplos Experimentales}{Fibra Óptica}
@@ -397,6 +417,7 @@ Desventajas:
 
 \end{frame}
 
+\section{GRACIAS POR SU ATENCIÓN}
 
 
 \end{document}
